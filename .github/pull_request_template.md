@@ -1,4 +1,4 @@
-### 🤖 Awork:
+### 💩 Awork:
 <!-- Link zur Awork-Aufgabe -->
 
 ### 📑 Beschreibung:
