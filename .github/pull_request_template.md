@@ -20,5 +20,5 @@ Weitere Infos: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/3006791
 
 ### ✅ Checks
 <!-- Checkpunkte sind nicht zu entfernen. Trifft eine Regel nicht zu, wird diese abgehakt und der Checkpunkt entsprechend ergänzt -->
-- [ ] WordPress: Alle Zeichenketten sind übersetzbar und die Übersetzungen sind eingepflegt
-- [ ] Alle PHP-Klassen, Funktionen und Templates sind dokumentiert
+- [ ] Alle Zeichenketten sind übersetzbar und die Übersetzungen sind eingepflegt
+- [ ] Alle Programmklassen, Funktionen und Templates sind dokumentiert
