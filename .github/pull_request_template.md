@@ -9,6 +9,9 @@ Weitere Infos: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/3006791
 ### 📑 Beschreibung:
 <!-- Kurze Beschreibung, was das Feature oder die Änderung macht -->
 
+### ✨ Nutzung von KI
+<!-- Kurze Beschreibung, in wie weit KI zum Einsatz kam. Nur relevant, wenn Codeteile durch KI generiert wurden -->
+
 ### 🕵️ Hinweise für die Prüfung:
 <!-- Informationen, was es zu prüfen gilt -->
 
