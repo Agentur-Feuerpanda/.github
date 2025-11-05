@@ -6,6 +6,9 @@ Weitere Infos: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/3006791
 ### 🤖 Awork:
 <!-- Link zur Awork-Aufgabe -->
 
+### 🎨 Screendesign:
+<!-- Link zum Screendesign, sollte eins vorhanden sein -->
+
 ### 📑 Beschreibung:
 <!-- Kurze Beschreibung, was das Feature oder die Änderung macht -->
 
