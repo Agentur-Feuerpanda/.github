@@ -28,3 +28,5 @@ Weitere Infos: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/3006791
 <!-- Checkpunkte sind nicht zu entfernen. Trifft eine Regel nicht zu, wird diese abgehakt und der Checkpunkt entsprechend ergänzt -->
 - [ ] Alle Zeichenketten sind übersetzbar und die Übersetzungen sind eingepflegt
 - [ ] Alle Programmklassen, Funktionen und Templates sind dokumentiert
+- [ ] [Richtlinien zur Barrierefreiheit](https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/1185808391/Checkliste+f+r+die+Barrierefreiheit) beachtet
+- [ ] Mehrsprachigkeit beachtet (sofern notwendig)
