@@ -1,6 +1,6 @@
 <!--
-Titel: Der Titel sollte identisch zur Awork-Aufgabe sein oder mindestens wichtige Schlagworte beinhalten
-Weitere Infos: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/300679193/Workflow+Pull+Requests#Welche-Inhalte-sind-in-einem-Pull-Request-zu-pflegen?
+Titel: Es gelten dieselben Anforderungen wie für Commitnachrichten: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/291963033/Standard+f+r+Git-Commit-Nachrichten
+Weitere Infos zur Beschreibung: https://feuerpanda.atlassian.net/wiki/spaces/INTERN/pages/300679193/Pull+Requests#Beschreibung
 -->
 
 ### 🤖 Awork:
